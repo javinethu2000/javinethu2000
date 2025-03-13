@@ -16,9 +16,6 @@ I'm a passionate **Software Engineering Undergraduate** I loves to code and expl
 
 
 
-## 📫 Contact Me
-
-- 📧 Email: javinethu2002@gmail.com 
 
 
 
