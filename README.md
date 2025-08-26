@@ -5,16 +5,31 @@
 
 <div align="center"> 
   <img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="75">&nbsp; 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=5005&pause=1000&color=33FFF5&center=true&random=false&width=540&lines=Hi+there!+I'm+Javindi ;Welcome+My+Github+Profile!;Fullstack+Developer" alt="Typing SVG"/>                                                </a><img src="https://github.com/user-attachments/assets/0bf134e2-c0ba-488b-bbd4-9300f2f77871" width="400">
-</div>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=5005&pause=1000&color=33FFF5&center=true&random=false&width=540&lines=Hi+there!+I'm+Javindi;Welcome+to+My+Github!;Fullstack+Developer" alt="Typing SVG"/>                                                </a><img src="https://github.com/user-attachments/assets/0bf134e2-c0ba-488b-bbd4-9300f2f77871" width="400">
+</div> 
 
 
 
 
 
 # <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/47eb2734-addb-46da-b4dd-5e1616cd3853" width="50">&nbsp; About Me:<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1020">
-<t2><b>👋 Hi, I'm Javindi Nethnika Heshani , a passionate <mark>Software Engineering Undergraduate at NSBM Green University</mark>. I'm eager to explore full-stack development & UI/UX desinger, with a focus on frontend and backend technologies.curruntly i'm learning AI/ML AND Cloud <br><br>🚀 Currently, I'm sharpening my skills in web development, database management, and data analysis, while also working on projects to strengthen my expertise.<br><br>💡 I love solving problems, learning new technologies, and building efficient solutions. Check out my repositories and feel free to collaborate!<b><br><br></t2>
+
+<t2><b>👋 Hi, I'm Javindi, a passionate <mark>Software Engineering Undergraduate at NSBM Green University</mark>. 💻 I'm a Full-Stack Developer, UI/UX Designer, and Quality Assurance (QA) Enthusiast with a growing interest in Artificial Intelligence / Machine Learning and Cloud Computing (AWS).<br><br>🚀 Currently, I'm enhancing my expertise in:
+
+Frontend & Backend Development ( MERN Stack,PHP,Python,C#,C,My SQL, Java, etc.)
+
+UI/UX Design (Figma)
+
+Software Testing & QA (IDEA , Selenium , Postman , Jira ,eclipse IDE)
+
+Database Management & Data Analysis
+
+AI/ML Fundamentals
+
+Cloud Technologies (AWS Cloud Practitioner in progress)<br><br>💡 I love solving problems, learning new technologies, and building efficient solutions. Check out my repositories and feel free to collaborate!<b><br>💡 I’m passionate about solving real-world problems, continuously learning new technologies, and building scalable, user-centered solutions. I'm actively working on diverse projects to apply and grow my skills across multiple domains in tech.<br>
+
+📁 Feel free to explore my repositories, give feedback, or reach out for collaboration. Let’s build something awesome together!<br></t2>
+
 
 
  # <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/bba47def-6b97-4489-9433-fbff5b588031" width="50">&nbsp; Socials: 
@@ -55,18 +70,12 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=javinethu2000&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=javinethu2000&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-# <img src="https://user-images.githubusercontent.com/74038190/235223604-c9f38e6d-e9df-4608-abeb-ae7fbdf46bfd.gif" width="60">&nbsp; GitHub Trophies<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1020">
-![](https://github-profile-trophy.vercel.app/?username=javinethu2000&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 # <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="60">&nbsp; Top Contributed Repo<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="1020">
 ![](https://github-contributor-stats.vercel.app/api?username=javinethu2000&limit=5&theme=neon&combine_all_yearly_contributions=true)
 
 
-<!--MY GRAPH-->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=javinethu2000&bg_color=d3fdf5&color=000000&line=121616&point=e7133d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
----
-[![](https://visitcount.itsvg.in/api?id=javinethu2000&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
