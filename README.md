@@ -5,7 +5,7 @@
 
 <div align="center"> 
   <img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="75">&nbsp; 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=5005&pause=1000&color=33FFF5&center=true&random=false&width=540&lines=Hi+there!+I'm+Nipun;Nice+to+meet+you!;Fullstack+Developer" alt="Typing SVG"/>                                                </a><img src="https://github.com/user-attachments/assets/0bf134e2-c0ba-488b-bbd4-9300f2f77871" width="400">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=5005&pause=1000&color=33FFF5&center=true&random=false&width=540&lines=Hi+there!+I'm+Javindi ;Welcome+My+Github+Profile!;Fullstack+Developer" alt="Typing SVG"/>                                                </a><img src="https://github.com/user-attachments/assets/0bf134e2-c0ba-488b-bbd4-9300f2f77871" width="400">
 </div>
 
 
@@ -20,20 +20,14 @@
  # <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/bba47def-6b97-4489-9433-fbff5b588031" width="50">&nbsp; Socials: 
  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1020">
 <div style="display: flex; gap: 10px; align-items: center;">
-<a href="https://www.linkedin.com/Nipun Jayawardhana" target="_blank">
+<a href="linkedin.com/in/javindi-nethnika" target="_blank">
   <img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/linkedin--v2.png" alt="linkedin--v2"/>
 </a>
 </a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=javinethu2002@gmail.com" target="_blank">
 <img width="100" height="100" src="https://img.icons8.com/arcade/100/new-post--v1.png" alt="new-post--v1"/>
 </a>
-<a href="https://www.facebook.com/Nipun Jayawardhana" target="_blank">
-  <img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/facebook-logo.png" alt="facebook-logo"/>
-</a>
-<a href="https://stackoverflow.com/Nipun Jayawardhana" target="_blank">
- <img width="85" height="85" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-shadow-tal-revivo.png" alt="external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-shadow-tal-revivo"/>
-</a>
-  
+
 
 
 
@@ -57,40 +51,24 @@
 
 # <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/76036311-c8ea-4247-8bf8-a7077623036c" width="60">&nbsp; GitHub Stats:<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1020">
 
-![](https://github-readme-stats.vercel.app/api?username=nipun-jayawardhana&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=nipun-jayawardhana&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nipun-jayawardhana&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=javinethu2000&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=javinethu2000&theme=neon&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=javinethu2000&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 # <img src="https://user-images.githubusercontent.com/74038190/235223604-c9f38e6d-e9df-4608-abeb-ae7fbdf46bfd.gif" width="60">&nbsp; GitHub Trophies<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1020">
-![](https://github-profile-trophy.vercel.app/?username=nipun-jayawardhana&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=javinethu2000&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 # <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="60">&nbsp; Top Contributed Repo<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="1020">
-![](https://github-contributor-stats.vercel.app/api?username=nipun-jayawardhana&limit=5&theme=neon&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=javinethu2000&limit=5&theme=neon&combine_all_yearly_contributions=true)
 
 
 <!--MY GRAPH-->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nipun-jayawardhana&bg_color=d3fdf5&color=000000&line=121616&point=e7133d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=javinethu2000&bg_color=d3fdf5&color=000000&line=121616&point=e7133d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=nipun-jayawardhana&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=javinethu2000&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
 
-<p align="center"><a href="https://www.buymeacoffee.com/Nipun Jayawardhana"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Nipun Jayawardhana" /></a></p><br><br>
 
-<div>
-<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="200" align="left">
-<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="400" align="right">
-<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="300">
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="1000">
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!--SNAKE EATING-->
-![snake gif](https://github.com/nipun-jayawardhana/nipun-jayawardhana/blob/output/github-snake-dark.svg)
